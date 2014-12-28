@@ -1,4 +1,4 @@
-ritwikgupta.github.io
+Ritwik Gupta
 =====================
 
-Website for Ritwik
+Basically my portfolio

@@ -1,16 +1,24 @@
+body, .container {
+  background: #f1f1f1;
+}
+
 .ritwik {
   margin: 0 auto;
 }
 
 .description {
-  border-left: 1px dashed #ccc;
-  border-bottom: 1px dashed #ccc;
+  border-left: 1px dashed #92652A;
+  border-bottom: 1px dashed #92652A;
 }
 
 .description-last {
-  border-left: 1px dashed #ccc;
+  border-left: 1px dashed #92652A;
 }
 
 .details>h4 {
   margin-top:30px;
+}
+
+h1, .h2date, h3 {
+  color: #BD3F32;
 }

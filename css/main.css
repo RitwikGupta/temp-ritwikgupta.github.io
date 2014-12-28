@@ -10,3 +10,7 @@
 .description-last {
   border-left: 1px dashed #ccc;
 }
+
+.details>h4 {
+  margin-top:30px;
+}

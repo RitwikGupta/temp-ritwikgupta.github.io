@@ -3,10 +3,10 @@
 }
 
 .description {
-  border-left: 1px dashed #555;
-  border-bottom: 1px dashed #555;
+  border-left: 1px dashed #ccc;
+  border-bottom: 1px dashed #ccc;
 }
 
 .description-last {
-  border-left: 1px dashed #555;
+  border-left: 1px dashed #ccc;
 }

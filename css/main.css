@@ -22,3 +22,7 @@ body, .container {
 h1, .h2date, h3 {
   color: #BD3F32;
 }
+
+.fadeDiv {
+  opacity: 0;
+}

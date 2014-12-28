@@ -1,0 +1,12 @@
+.ritwik {
+  margin: 0 auto;
+}
+
+.description {
+  border-left: 1px dashed #555;
+  border-bottom: 1px dashed #555;
+}
+
+.description-last {
+  border-left: 1px dashed #555;
+}

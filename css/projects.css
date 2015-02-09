@@ -7,6 +7,18 @@ body, .container {
 .hackname {
   color: #BD3F32;
 }
+.project:hover, .project-right:hover {
+  background-color: #d8d8d8;
+}
+div[class*='col'] {
+  height: 100%;
+  display: table-cell;
+  float: none
+}
+.row {
+  display: table;
+  width: 100%
+}
 @media (min-width: 1200px) {
   html {
     position: relative;

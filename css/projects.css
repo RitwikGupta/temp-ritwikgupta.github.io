@@ -1,0 +1,14 @@
+body, .container {
+  background: #f1f1f1;
+}
+.link {
+  margin-left: 15px;
+}
+.hackname {
+  color: #BD3F32;
+}
+@media (min-width: 600px) {
+  .project-left, .project-center {
+    border-right: thin dashed #000;
+  }
+}

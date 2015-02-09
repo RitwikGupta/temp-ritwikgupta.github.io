@@ -15,6 +15,17 @@
 
 <body>
      <script type="text/javascript" src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+     <script type="text/javascript">
+          $(document).ready(function() {
+               var heights = $(".column").map(function() {
+                         return $(this).height();
+                    }).get(),
+
+                    maxHeight = Math.max.apply(null, heights);
+
+               $(".column").height(maxHeight);
+          });
+     </script>
      <div class="navbar navbar-default" role="navigation">
           <div class="-fluid">
                <div class="navbar-header">

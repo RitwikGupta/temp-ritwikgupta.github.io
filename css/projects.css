@@ -13,15 +13,15 @@ body, .container {
     min-height: 100%;
   }
   body {
-    margin-bottom: 30px;
+    margin-bottom: 45px;
   }
   .footer {
     position: absolute;
     bottom: 0;
     width: 100%;
-    height: 30px;
+    height: 45px;
     background-color: #f1f1f1;
-    margin-top: 15px;
+    padding-top: 15px;
   }
   .project {
     border-right: thin dashed #000;

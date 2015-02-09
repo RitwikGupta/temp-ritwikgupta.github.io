@@ -8,7 +8,7 @@ body, .container {
   color: #BD3F32;
 }
 @media (min-width: 600px) {
-  .project-left, .project-center {
+  .project {
     border-right: thin dashed #000;
   }
 }

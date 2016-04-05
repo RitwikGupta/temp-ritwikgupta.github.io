@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/ritwik
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://ritwikgupta.me
+  * I am ritwik (https://keybase.io/ritwik) on keybase.
+  * I have a public key with fingerprint B74D F4AB 025A B90B 38AE  8FFA 2C00 3274 7E7D 1CBD
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120ff36b770eecf9e3f94d957ffe52b049308bc54f2b3f113d2858f9e2e336425140a",
+            "fingerprint": "b74df4ab025ab90b38ae8ffa2c0032747e7d1cbd",
+            "host": "keybase.io",
+            "key_id": "2c0032747e7d1cbd",
+            "kid": "01012f933d5f41e500be8363f2ecfad66367fb508d6d08fcc0ffb6c57a234fb8d5b90a",
+            "uid": "89f4c144b40dad5380e5139791065519",
+            "username": "ritwik"
+        },
+        "service": {
+            "hostname": "ritwikgupta.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1459882424,
+    "expire_in": 157680000,
+    "prev": "22c8263a2408ed0da363c4f20c289bf463fd21535e00ba64526be090e5b256a2",
+    "seqno": 14,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMNuAnicbVJ7UBVVHL6gKFCEElBCiG0hEbfL7tk9e3fJ1NKRESYdh2HMUGEfZ2EH
+7sP7jHHuBVFLLYebA5EDU1DTBKHNYIyKyEMkaMBhhKB4pDwqsDCZDHV8BJ1l8o9m
+Ov+cOb/z/b7f933ndIQs0QX76XXA4fU81+zXc6ncqdu5NKhxPyFa5AIieT+RhxY3
+lC8juyMrT5WJZIKkAKkoNCsajSRCksIjWuEZmYdGRUEQiCTD0yQnSpBRgEgrFEXL
+gIMcxgFE0ywDIMWQAqEnFNWcg2xWm2p2YFrRyMgKI4gkgILIkyLNCYhTFAFIJEkD
+I2NERpmSRBk35lrsWgcWJwp2ZFAtuIYPWYvy/gf/WDdWrvA0LUOFoRAkSRFxNEsr
+AJsQZJalWaMiQpKTWZnkFEnCLkVWgkYB0IwicjLEsjTdzkU6jlcYiWIYkSFlQYY0
+RyJI0byRp0gWQorXgHZkMwsmhNE21eFW8wiPnsA1lyohLVbNx3/uc5xWh2DABT1h
+tVkcFsmSj+9yHQ5rstbqKLBqWDcSs/5lyRJVs4xjxA0uZLOrFjORTGGk5FA1WoqB
+PMcBBjB6Ar1jVW0oS9UQ0MhyJF7aGOTSQgMSB1haAAzJIRkbwrlI+P1ICXC8qDA4
+JRlQkIYIpyawDASsiEgeWxYBZAVAaL72mS3aSKxTyMGcdjXHLDicNkR42i/tXqrz
+C9YtC/DX/pcuOGjF41839mPoPA3u21Ylep4kufnkB7NvUWZTdD91diC8KG0soq60
+vj/9XE3DTzNyxkhcW2ZN6rqjp+sD7PDqrx9RsXes2ytN3pORj262lAa+mut7Y5xb
+3Uod+WYkDPHHs7/sKugYXWMvf9N9bNuFpIVj348XtjcPiEAsXN411HJzNO6OL4Jo
+W8gx66L6Xur0VPVmr1vWuem7w+Vd1odps7/MPVWuXos8XzGc1OgOLDrpRUdLnpn9
+PazkvZX8qob07K3M7aKy6p4CV8Dx+Nf4Zj5xx63tGwvrfpuvOD0ysDrthS0bVv7Z
+uzYiP+zUPZ/7HEB7/G/Hv9wXPXV94MPPbaGpp354/SGVkpDeF9794lAi23g3dL1z
+YKMvMKN7r29v6VzTgfObT9ydPDD/qM7SBA0zqe9GuXbsir7P3Wj0GDZfXFNy8Mof
+T5RJ8b1VX9feqz4R1Dp44/Inmfri7LkFX+aSsxeqmwajFgxxD36+MtY7vTM8rXMw
+dCKkp81VBmcO6z5ba4rpuDq73utsnnHXthY3rI6pOBT3VeqtsMnay8LT3+47IyYV
+R7WUW4I/TTkUULxi28Xc4etxez7Q1dPeAE9RSn9k49B4bU2tNzIk48goby1tiK3a
+9OzUxN+mt027pq9Rjf7vv5K4GyacGXl+eni5XDiibO2ubIgdA1sS0qf+muzKm4uZ
+qDxo+KKCbx9O/bj3Hy3Ewu0=
+=kI4B
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ritwik
+
+==================================================================

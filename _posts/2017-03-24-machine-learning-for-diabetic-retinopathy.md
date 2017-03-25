@@ -5,7 +5,7 @@ date:   2017-03-24 23:05:00 -0400
 categories: machine-learning
 ---
 
-This is a page for my talk given at [FCHacks 2017](//fchacks.io) at Fox Chapel High School on March 25th, 2017. I will add more detail here after the hackathon!
+This is a page for my talk given at [FCHacks 2017](http://fchacks.io) at Fox Chapel High School on March 25th, 2017. I will add more detail here after the hackathon!
 
 ## Data
 Get the data from [here]({{ site.url }}/assets/data/dr.csv) (right click, save as).

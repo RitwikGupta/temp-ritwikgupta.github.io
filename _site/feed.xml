@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-03-25T00:11:56-04:00</updated><id>http://localhost:4000/</id><title type="html">Ritwik’s Thoughts</title><subtitle>Random thoughts and posts
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-03-25T00:16:00-04:00</updated><id>http://localhost:4000/</id><title type="html">Ritwik’s Thoughts</title><subtitle>Random thoughts and posts
 </subtitle><entry><title type="html">Machine Learning for Diabetic Retinopathy</title><link href="http://localhost:4000/machine-learning/2017/03/24/machine-learning-for-diabetic-retinopathy.html" rel="alternate" type="text/html" title="Machine Learning for Diabetic Retinopathy" /><published>2017-03-24T23:05:00-04:00</published><updated>2017-03-24T23:05:00-04:00</updated><id>http://localhost:4000/machine-learning/2017/03/24/machine-learning-for-diabetic-retinopathy</id><content type="html" xml:base="http://localhost:4000/machine-learning/2017/03/24/machine-learning-for-diabetic-retinopathy.html">&lt;p&gt;This is a page for my talk given at FCHacks 2017 at Fox Chapel High School on March 25th, 2017. I will add more detail here after the hackathon!&lt;/p&gt;
 
 &lt;h2 id=&quot;data&quot;&gt;Data&lt;/h2&gt;
 &lt;p&gt;Get the data from &lt;a href=&quot;http://localhost:4000/assets/data/dr.csv&quot;&gt;here&lt;/a&gt; (right click, save as).&lt;/p&gt;
 
 &lt;h2 id=&quot;slides&quot;&gt;Slides&lt;/h2&gt;
-&lt;p&gt;These aren’t too helpful as the majority of this talk was interactive, but I will post my iPython notebook and writeup here soon.&lt;/p&gt;
-&lt;object data=&quot;http://localhost:4000/assets/fchacks-dr-2017.pdf&quot; type=&quot;application/pdf&quot; width=&quot;100%&quot; height=&quot;800px&quot;&gt; 
-  &lt;p&gt;It appears you don't have a PDF plugin for this browser.
-   No biggie... you can &lt;a href=&quot;resume.pdf&quot;&gt;click here to
-  download the PDF file.&lt;/a&gt;&lt;/p&gt;  
- &lt;/object&gt;</content><author><name></name></author><summary type="html">This is a page for my talk given at FCHacks 2017 at Fox Chapel High School on March 25th, 2017. I will add more detail here after the hackathon!</summary></entry></feed>
+&lt;p&gt;These aren’t too helpful as the majority of this talk was interactive, but I will post my iPython notebook and writeup here soon.&lt;br /&gt;
+If you’re on mobile, view the slides &lt;a href=&quot;http://localhost:4000/assets/fchacks-dr-2017.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;object data=&quot;http://localhost:4000/assets/fchacks-dr-2017.pdf&quot; type=&quot;application/pdf&quot; width=&quot;100%&quot; height=&quot;800px&quot;&gt;
+  &lt;p&gt;It appears you don't have a PDF plugin for this browser.&lt;/p&gt;
+&lt;/object&gt;</content><author><name></name></author><summary type="html">This is a page for my talk given at FCHacks 2017 at Fox Chapel High School on March 25th, 2017. I will add more detail here after the hackathon!</summary></entry></feed>

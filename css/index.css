@@ -1,0 +1,26 @@
+html, body {
+    overflow-x: hidden;
+}
+
+body, .container {
+    background: #fafafa;
+}
+
+.jumbotron {
+    background: #fafafa;
+    padding-bottom: 1rem;
+}
+
+.exp-header {
+  border-width: 1px;
+  border-bottom-style: dashed;
+  margin-bottom: 0.5rem;
+}
+
+.exp {
+    margin-bottom: 0.5rem;
+}
+
+ul {
+    margin-top: 0px;
+}

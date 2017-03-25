@@ -12,4 +12,6 @@ Get the data from [here]({{ site.url }}/assets/data/dr.csv) (right click, save a
 
 ## Slides
 These aren't too helpful as the majority of this talk was interactive, but I will post my iPython notebook and writeup here soon.
-<iframe src="{{ site.url }}/assets/fchacks-dr-2017.pdf" type="application/pdf" width="100%" height="800em">
+<object data="{{ site.url }}/assets/fchacks-dr-2017.pdf" type="application/pdf" width="100%" height="800px">
+  <p>It appears you don't have a PDF plugin for this browser.</p>
+</object>

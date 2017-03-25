@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/ritwik
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ritwikgupta.me
+  * I am ritwik (https://keybase.io/ritwik) on keybase.
+  * I have a public key ASB7k8y4KTvV9VHnsF5U7hY-nXEuQgQrpbp4XlJMsS62Jwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120ff36b770eecf9e3f94d957ffe52b049308bc54f2b3f113d2858f9e2e336425140a",
+            "host": "keybase.io",
+            "kid": "01207b93ccb8293bd5f551e7b05e54ee163e9d712e42042ba5ba785e524cb12eb6270a",
+            "uid": "89f4c144b40dad5380e5139791065519",
+            "username": "ritwik"
+        },
+        "service": {
+            "hostname": "ritwikgupta.me",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1487887318,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1487887302,
+        "hash": "98aade626ce8579a27f09a2848276f2556765fd6307b302fc28e99d27e89afb761681b0050f871c91034cae853017c116e55ff7ce4e6d69c71241b03cd47e646",
+        "seqno": 918414
+    },
+    "prev": "2b95bdf70d5fa5a975f5111ee58d35b24e625a44b0ceadb42965419a7d397067",
+    "seqno": 20,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEge5PMuCk71fVR57BeVO4WPp1xLkIEK6W6eF5STLEuticKp3BheWxvYWTFAvV7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwZmYzNmI3NzBlZWNmOWUzZjk0ZDk1N2ZmZTUyYjA0OTMwOGJjNTRmMmIzZjExM2QyODU4ZjllMmUzMzY0MjUxNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwN2I5M2NjYjgyOTNiZDVmNTUxZTdiMDVlNTRlZTE2M2U5ZDcxMmU0MjA0MmJhNWJhNzg1ZTUyNGNiMTJlYjYyNzBhIiwidWlkIjoiODlmNGMxNDRiNDBkYWQ1MzgwZTUxMzk3OTEwNjU1MTkiLCJ1c2VybmFtZSI6InJpdHdpayJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoicml0d2lrZ3VwdGEubWUiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4Nzg4NzMxOCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDg3ODg3MzAyLCJoYXNoIjoiOThhYWRlNjI2Y2U4NTc5YTI3ZjA5YTI4NDgyNzZmMjU1Njc2NWZkNjMwN2IzMDJmYzI4ZTk5ZDI3ZTg5YWZiNzYxNjgxYjAwNTBmODcxYzkxMDM0Y2FlODUzMDE3YzExNmU1NWZmN2NlNGU2ZDY5YzcxMjQxYjAzY2Q0N2U2NDYiLCJzZXFubyI6OTE4NDE0fSwicHJldiI6IjJiOTViZGY3MGQ1ZmE1YTk3NWY1MTExZWU1OGQzNWIyNGU2MjVhNDRiMGNlYWRiNDI5NjU0MTlhN2QzOTcwNjciLCJzZXFubyI6MjAsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAdfonZPbkrSPWTt/Ge/paSyOKHrBptM3b3au6c+eV+i3mGtLLXlu1KV9KPhSkHpYd9JSM+pQrhZIBTUCbC68fA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIhsPYxC0V64qmraXp/FENMOqQSjGADaQY2jiEcxw0Fyo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ritwik
+
+==================================================================

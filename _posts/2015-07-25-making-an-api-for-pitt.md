@@ -7,7 +7,7 @@ categories: general-coding
 
  Making an API for Pitt
 
-> A journey into production code.
+> A journey into production code.  
 > Note: This a post from 2015 copied from my Medium. Posted here on March 25, 2017.
 
 ![]({{ site.url }}/static/gc/api-1.png)

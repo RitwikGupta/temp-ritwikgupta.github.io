@@ -12,4 +12,4 @@ Get the data from [here]({{ site.url }}/assets/data/dr.csv) (right click, save a
 
 ## Slides
 These aren't too helpful as the majority of this talk was interactive, but I will post my iPython notebook and writeup here soon.
-<embed src="{{ site.url }}/assets/fchacks-dr-2017.pdf" type="application/pdf" width="100%" height="800em" title>
+<iframe src="{{ site.url }}/assets/fchacks-dr-2017.pdf" type="application/pdf" width="100%" height="800em">

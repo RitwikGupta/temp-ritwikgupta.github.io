@@ -10,6 +10,18 @@ This is a page for my talk given at [FCHacks 2017](http://fchacks.io) at Fox Cha
 ## Data
 Get the data from [here]({{ site.url }}/assets/data/dr.csv) (right click, save as).
 
+## Prerequisites
+* Python 3.5.X
+
+## Setup
+* Open your terminal/command prompt.
+* Verify Python 3.5.X is installed by running `python -V` (or `python3 -V` for systems where Python is alt-installed).
+* Install the following packages via `pip` (By running `pip install package-name`):
+  * ipython[all]
+  * numpy
+  * pandas
+  * scikit-learn
+
 ## Slides
 These aren't too helpful as the majority of this talk was interactive, but I will post my iPython notebook and writeup here soon.  
 If you're on mobile, view the slides [here]({{ site.url}}/assets/fchacks-dr-2017.pdf).
